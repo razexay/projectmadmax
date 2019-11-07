@@ -5,9 +5,11 @@ h1 {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .header-background{
-    background: url(Pictures/banner_2.jpg);
+    background: url(Pictures/banner_3.jpg);
     margin: 0;
     height: 260px;
+    background-repeat: no-repeat;
+    background-color: #FFFFFFFF;
 }
 .menu {
 	background-color: #8bffea;
@@ -31,7 +33,7 @@ body, html {
 
 }
 .image {
-	background-image: url(https://imgur.com/KOTT77F);
+	background-image: url(https://imgur.com/sjSIwKh);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -93,9 +95,9 @@ a:-webkit-any-link {
 }
 
 .veerg img {
-	opacity: 0.8;
+	opacity: 1;
 }
 
 .veerg img:hover {
-	opacity: 1;
+	opacity: 0.5;
 }
