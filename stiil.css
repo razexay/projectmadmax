@@ -1,0 +1,101 @@
+h1 {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 196px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.header-background{
+    background: url(Pictures/banner_2.jpg);
+    margin: 0;
+    height: 260px;
+}
+.menu {
+	background-color: #8bffea;
+	font-family: #000000;
+	overflow: hidden;
+}
+.menu a {
+	float: right;
+	font-size: 16px;
+	color: #000000;
+	text-align: center;
+	padding: 10px;
+}
+.menu a:hover {
+	background-color: #80b0bc;
+}
+body, html {
+		margin: 0;
+		height: 100%;
+		color: #000000;
+
+}
+.image {
+	background-image: url(https://imgur.com/KOTT77F);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding: 50px;
+	text-align: center;
+}
+p {
+	color: 	#000000;
+}
+
+.subject h1 {
+	font-size: 50px; 
+	color: #e2b100;
+	margin:0; 
+}
+
+.subject button {
+	
+	border-radius: 5px;
+	border-style: solid;
+    border-color: white;
+    padding: 10px;
+
+}
+.subject button:hover {
+	background-color: #e2b100;
+	border-color: #e2b100;
+	color: white;
+}
+
+.minust p, h2 {
+	color: black;
+	text-align: center;
+}
+
+.minust img {
+	height: 180px;
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+}
+
+a:-webkit-any-link {
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+.kontakt {
+	height: 100%;
+}
+
+.veerg {
+	width: 60%
+	padding: 20px;
+	float: left;
+}
+
+.veerg img {
+	opacity: 0.8;
+}
+
+.veerg img:hover {
+	opacity: 1;
+}
