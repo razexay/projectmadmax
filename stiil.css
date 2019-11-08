@@ -5,7 +5,7 @@ h1 {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .header-background{
-    background: url(Pictures/banner_3.jpg);
+    background: url(Pictures/Pictures/banner_3.jpg);
     margin: 0;
     height: 260px;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@ h1 {
     background-color: #FFFFFFFF;
 }
 .footer-background{
-    background: url(Pictures/war-rig.png);
+    background: url(Pictures/Pictures/war-rig.png);
     margin: 0;
     height: 260px;
     background-repeat: no-repeat;
