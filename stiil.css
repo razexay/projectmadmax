@@ -101,3 +101,9 @@ a:-webkit-any-link {
 .veerg img:hover {
 	opacity: 0.5;
 }
+
+.video {
+	max-width: 1120px;
+    margin: auto;
+    display: flex;
+}
