@@ -11,8 +11,22 @@ h1 {
     background-repeat: no-repeat;
     background-color: #FFFFFFFF;
 }
+.header-2_background{
+    background: url(Pictures/banner.jpg);
+    margin: 0;
+    height: 260px;
+    background-repeat: no-repeat;
+    background-color: #FFFFFFFF;
+}
+.footer-background{
+    background: url(Pictures/war-rig.png);
+    margin: 0;
+    height: 260px;
+    background-repeat: no-repeat;
+    background-color: #dee2e1;
+}
 .menu {
-	background-color: #8bffea;
+	background-color: #0b5153;
 	font-family: #000000;
 	overflow: hidden;
 }
@@ -89,21 +103,47 @@ a:-webkit-any-link {
 }
 
 .veerg {
-	width: 60%
 	padding: 20px;
 	float: left;
+	width: 50%;
 }
 
 .veerg img {
 	opacity: 1;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
 
 .veerg img:hover {
 	opacity: 0.5;
 }
+#profile-pic {
+  	float: left;
+	padding: 30px;
+	display: block;
 
-.video {
-	max-width: 1120px;
-    margin: auto;
-    display: flex;
+}
+.story-desc{
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: x-large;
+    display: block;
+    margin-block-start: 3em;
+    margin-block-end: 3em;
+    margin-inline-start: 100px;
+    margin-inline-end: 100px;
+}
+.bottom-right {
+    position: absolute;
+    bottom: 500px;
+    right: 30px;
+    font-size: 50px;
+}
+.video{
+
+
 }
