@@ -103,9 +103,9 @@ a:-webkit-any-link {
 }
 
 .veerg {
-	padding: 20px;
+	padding: 0px;
 	float: left;
-	width: 50%;
+	width: 33.33%;
 }
 
 .veerg img {
@@ -121,7 +121,7 @@ a:-webkit-any-link {
 	opacity: 0.5;
 }
 #profile-pic {
-  	float: left;
+  	float: right;
 	padding: 30px;
 	display: block;
 
